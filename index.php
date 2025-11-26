@@ -1,7 +1,7 @@
 <!-- nginx document root - /usr/share/nginx/html/index.php -->
 <?php
 // ---- DB CONFIG ----
-$host = "rm-zf84c0ije884bmxzl.mysql.kualalumpur.rds.aliyuncs.com";  // e.g. lemp-db.mysql.rds.aliyuncs.com
+$host = "";  // e.g. lemp-db.mysql.rds.aliyuncs.com
 $user = "lemp_admin";
 $pass = "0924@mkk";
 $dbname = "todo_app";
